@@ -1,0 +1,10 @@
+E:\Projects\ColorPr\ColorPr\bin\Release\ColorPr.exe.config
+E:\Projects\ColorPr\ColorPr\bin\Release\ColorPr.exe
+E:\Projects\ColorPr\ColorPr\bin\Release\ColorPr.pdb
+E:\Projects\ColorPr\ColorPr\obj\Release\ColorPr.csprojAssemblyReference.cache
+E:\Projects\ColorPr\ColorPr\obj\Release\ColorPr.Form1.resources
+E:\Projects\ColorPr\ColorPr\obj\Release\ColorPr.Properties.Resources.resources
+E:\Projects\ColorPr\ColorPr\obj\Release\ColorPr.csproj.GenerateResource.cache
+E:\Projects\ColorPr\ColorPr\obj\Release\ColorPr.csproj.CoreCompileInputs.cache
+E:\Projects\ColorPr\ColorPr\obj\Release\ColorPr.exe
+E:\Projects\ColorPr\ColorPr\obj\Release\ColorPr.pdb
